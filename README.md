@@ -9,6 +9,7 @@
 # Header Size 1
 _Organize using Markdown_ :wave:
 <Nothing>
+## Header 2
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
